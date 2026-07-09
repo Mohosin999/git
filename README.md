@@ -146,6 +146,11 @@ git branch feature/add-contributing-file
 git checkout -b toBranch fromBranch
 ```
 
+Modern Method: 
+```
+git switch -c <branch-name>
+```
+
 ### আর যদি আমরা already fromBranch ব্রাঞ্চে থাকি তাহলে লিখবো:
 
 ```javascript
