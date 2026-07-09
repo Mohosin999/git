@@ -165,6 +165,11 @@ git checkout -b toBranch
 git switch branchName
 ```
 
+Modern command:
+```
+git switch -
+```
+
 **আরেকটা বিকল্প Command হলো**
 
 ```javascript
